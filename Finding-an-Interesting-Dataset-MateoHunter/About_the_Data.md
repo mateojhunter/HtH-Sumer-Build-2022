@@ -10,3 +10,5 @@
 ### 6. Do SOP's matter more tha CGPA?
 ### 7. Are letters of recomendation important for admissions into Rank 5 schools?
 ### 8. What are the minimum scores that people need to get into rank 5 schools?
+### 9. What scores are within the top 75% of the dataset?
+### 10. What are the minimum requirements to be accepted into Level 1 rated schools?
